@@ -7,4 +7,4 @@ while(k < indice){
     soma = soma + k
 }
 
-console.log(soma)
+console.log(soma) //Soma será 91
